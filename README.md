@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abraham
 - 👀 I’m interested in programing everything
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 I’m Software Engineer
 - 💞️ I’m looking to collaborate on Developer anything
 - 📫 How to reach me send me mail to cesarduran302@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abraham
 - 👀 I’m interested in programing everything
 - 🌱 I’m Software Engineer
-- 💞️ I’m looking to collaborate on Developer anything
+- 💞️ I’m looking to collaborate on Develop anything
 - 📫 How to reach me send me mail to cesarduran302@gmail.com
 
 <!---

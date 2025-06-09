@@ -22,5 +22,5 @@ Frameworks: [Django, Laravel, Node.js, React]
 Databases: [MySQL, PostgreSQL, SQLite]
 Tools: [Git, Docker, Postman, Linux, Figma]
 Other: [CI/CD, API Design, IoT, Microservices, REST]
-
+```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=T-crtl&show_icons=true&theme=tokyonight" alt="Abraham's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-crtl&theme=tokyonight" alt="GitHub Streak" /> </p>
